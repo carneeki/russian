@@ -1,3 +1,6 @@
+Thoroughly recommend reading https://en.wikipedia.org/wiki/Russian_alphabet
+for further information. Much of this document is a summary of that page.
+
 There are 33 letters in the Russian alphabet.
   * 20 consonants
   * 10 vowels
