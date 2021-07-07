@@ -1,11 +1,15 @@
-Thoroughly recommend reading https://en.wikipedia.org/wiki/Russian_alphabet
-for further information. Much of this document is a summary of that page.
+# Russian Alphabet
+
+Thoroughly recommend reading
+[Wikipedia](https://en.wikipedia.org/wiki/Russian_alphabet) for further
+information. Much of this document is a summary of that page.
 
 There are 33 letters in the Russian alphabet.
-  * 20 consonants
-  * 10 vowels
-  * 2 modifiers
-  * 1 semivowel
+
+* 20 consonants
+* 10 vowels
+* 2 modifiers
+* 1 semivowel
 
 |  # | Xx |         Name | English sound   | Category   | Example                        |
 |----|----|--------------|-----------------|------------|--------------------------------|
@@ -45,43 +49,51 @@ There are 33 letters in the Russian alphabet.
 
 Some of the letters need a little explanation:
 
-## `Гг` - "G" or "V" ?
+## `Гг` - "G" or "V"?
+
 There are some times this hard "g" sound is turned into a "v" sound. The pattern
 seems to be whenever there is an `ого` letter combo, like in `этого`, then it is
 pronounced with a "v", so `этого` is "etovo"
 
 ## `Йй` - Semi-vowel
+
 This sounds a lot like `Ии` but gramatically it will behave like a consonant,
 similar to how "Yy" is sometimes treated like a vowel and a consonant in English.
 
 ## Modifiers
+
 These letters is not prounounced but rather, they modify the pronunciation
 of the previous letter.
 
 ### `Ъъ` - Modifier - Hard sign
+
 This modifier can produce a "j" (or even "zh") sound when the vowels `е`, `ё`,
 `ю` `я`, come after the `ъ`.
 
 ### `Ьь` - Modifier - Soft Sign
 
-
 ## Missing Sounds
+
 English has some sounds that are not present in Russian. How sounds are
 converted does not seem to be standardised, and seems to pop up mostly with
 people's names (pronouns).
 
 ### "H"
+
 **H**arry -> `Харри` or `Гарри`.
 
 ### "Th"
+
 **Th**elma -> `Тельма`
 **Th**eodore -> `Фёдор`
 Mat**th**ew -> `Матией`
 
 ### "J"
+
 **J**enny -> `Дженни`
 
 ## Frequency analysis
+
 The following table shows how frequently each letter is used in the Russian
 corpus
 
@@ -119,4 +131,3 @@ corpus
 | 31 | Фф |  0.21 |
 | 32 | Ёё |  0.20 |
 | 33 | Бб |  0.02 |
-
