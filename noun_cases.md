@@ -46,6 +46,9 @@ is a good guide on the accusative case in Russian.
 
 ### Accusative in Russian
 
+In Russian the accusative case can sometimes change the word ending with a
+different suffix.
+
 * Марк есть **торт**, Mark is eating a **cake**.
 
 ## Dative
