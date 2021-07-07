@@ -132,3 +132,17 @@ corpus
 | 31 | Фф |  0.21 |
 | 32 | Ёё |  0.20 |
 | 33 | Бб |  0.02 |
+
+## Em-dash (a triple length hyphen)
+
+The Duolingo tips also include a note about a long hyphen shape called an
+"em-dash". Russian does not have articles which means, to say "X is Y" the
+em-dash is used, like `X — Y`.
+
+As most keyboards don't seem to include an em-dash or even an en-dash, (even
+Russian keyboards!) a hyphen is accepted as a substitute. For more on the
+em-dash, en-dash and hyphen (in English), checkout:
+
+* [hyphen](https://grammarist.com/grammar/hyphens/)
+* [en-dash](https://grammarist.com/grammar/en-dash/)
+* [em-dash](https://grammarist.com/grammar/em-dash/)
