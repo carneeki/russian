@@ -97,7 +97,7 @@ Mat**th**ew -> `Матией`
 The following table shows how frequently each letter is used in the Russian
 corpus
 
-| ## | Xx | %%.%% |
+| #  | Xx | %     |
 |----|----|-------|
 |  1 | Оо | 11.18 |
 |  2 | Ее |  8.75 |
