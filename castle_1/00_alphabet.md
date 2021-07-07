@@ -11,7 +11,7 @@ There are 33 letters in the Russian alphabet.
 * 2 modifiers
 * 1 semivowel
 
-|  # | Xx |         Name | English sound   | Category   | Example                        |
+|  # | Xx | Name         | English sound   | Category   | Example                        |
 |----|----|--------------|-----------------|------------|--------------------------------|
 |  0 | Аа | а            | f**a**ther      | Vowel      | дв**а** / dva / "two"          |
 |  1 | Бб | бэ           | **b**ad         | Consonant  | об**а** / óba / "both"         |
@@ -98,6 +98,7 @@ The following table shows how frequently each letter is used in the Russian
 corpus
 
 | ## | Xx | %%.%% |
+|----|----|-------|
 |  1 | Оо | 11.18 |
 |  2 | Ее |  8.75 |
 |  3 | Аа |  7.64 |
